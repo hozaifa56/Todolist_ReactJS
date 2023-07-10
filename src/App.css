@@ -36,3 +36,48 @@
     transform: rotate(360deg);
   }
 }
+#textb{
+  width: 80%;
+  height: 15vh;
+  outline-style: none;
+  border-radius: 10px;
+  font-size: xx-large;
+}
+#addb{
+  outline-style: none;
+  height: 7vh;
+  width: 10%;
+  background-color: rgb(96, 96, 181);
+  font-style: italic;
+  border-radius: 10px;
+}
+h1{
+  color: black;
+}
+#partition{
+  width: 80%;
+  height: 0.25vh;
+  outline-style: none;
+  border-radius: 5px;
+  border-color: black;
+  background-color: black;
+}
+#lst{
+  margin-left: 5%;
+  margin-right: 5%;
+  display: flex;
+  justify-content: space-between;
+}
+#delb{
+  outline-style: none;
+  height: 7vh;
+  width: 10%;
+  background-color: red;
+  border-radius: 10px;
+  font-size: xx-large;
+}
+body{
+  background-image: url("E:\Coding\web dev\React tutorial\textutils\public\bg.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
