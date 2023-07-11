@@ -24,6 +24,7 @@ function App() {
     setTodoList(todoList.filter((task) => task.id !== id));
   };
 
+
   return (
     <div className="App">
       <div className="addTask">

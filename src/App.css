@@ -81,3 +81,11 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
 }
+#compb{
+  outline-style: none;
+  height: 7vh;
+  width: 12%;
+  background-color: lightcoral;
+  border-radius: 10px;
+  font-size: xx-large;
+}
